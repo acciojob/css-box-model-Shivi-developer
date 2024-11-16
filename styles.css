@@ -1,9 +1,14 @@
 
 /* Your CSS Code here. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 #box{
 	width: 300px;
 	background-color: lightblue;
 	border: 15px solid blue;
 	padding: 50px;
 	margin: 20px;
+}
+p{
+	font-family: "Inter", sans-serif;
+	text-align: content;
 }
